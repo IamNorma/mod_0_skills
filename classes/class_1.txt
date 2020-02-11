@@ -1,0 +1,14 @@
+vegetable
+
+//attributes//
+taste (string)
+weight (integer)
+name (array)
+raw (boolean)
+
+
+//methods//
+add_salt (changes the taste attribute)
+chop (decreases weight by 5)
+add_to_inventory (adds 1 to end of the name array)
+cook (changes raw to false)
