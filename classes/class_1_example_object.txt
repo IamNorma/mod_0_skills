@@ -1,0 +1,13 @@
+squash
+
+//attribute//
+taste: "bitter"
+weight: 15
+name: ["yellow squash","butternut squash"]
+raw: true
+
+//methods//
+add_salt: "sweet"
+weight: 10
+name: ["yellow squash", "butternut squash", "acorn squash"]
+cook: raw = false 
