@@ -1,0 +1,9 @@
+food = "pizza"
+is_new = false
+food = "taco"
+num1 = 24
+num2 = 16
+num3 = num1 * num2
+movies = ["E.T.", "Toy Story", "The Goonies", "Love Actually"]
+movies.pop()
+movies.count()
