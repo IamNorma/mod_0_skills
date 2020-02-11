@@ -1,0 +1,13 @@
+blender
+
+//attributes//
+color: "red"
+is_on: true
+in_inventory: ["blender1", "blender2", "blender3"]
+weight: 28.6
+
+//methods//
+paint: "black"
+turn_off: is_on = false
+throw_out: ["blender1", "blender2"]
+remove_part: 23.1
