@@ -1,0 +1,13 @@
+Appliance
+
+//attribute//
+color (string)
+is_on (boolean)
+in_inventory (array)
+weight (float)
+
+//methods//
+paint (changes color attribute)
+turn_off (changes is_on to false)
+throw_out (decreases in_inventory array by 1)
+remove_part (decrease weight by 5.5)
